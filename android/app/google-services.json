@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "100590124038",
+    "project_id": "beaware-bfe53",
+    "storage_bucket": "beaware-bfe53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100590124038:android:cea0a2745f60ea9a715787",
+        "android_client_info": {
+          "package_name": "com.bughopper.feelsafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100590124038-4um1uhk2op7osos7mlsa1enlq7sgmbvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJIarGi-u6-WPF6mxuQUPnXfLYwop7_vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100590124038-4um1uhk2op7osos7mlsa1enlq7sgmbvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
