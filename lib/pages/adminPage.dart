@@ -130,7 +130,7 @@ class AdminPage extends StatelessWidget {
                                   height: 20.0,
                                 ),
                                 Text(
-                                  "Predictions",
+                                  "Alert Zone",
                                   style: TextStyle(
                                       color: Colors.white,
                                       fontWeight: FontWeight.bold,
@@ -140,7 +140,7 @@ class AdminPage extends StatelessWidget {
                                   height: 5.0,
                                 ),
                                 Text(
-                                  "Based on the data, we can predict the future.",
+                                  "Based on the data, we can spot high alert zone.",
                                   style: TextStyle(
                                       color: Colors.white,
                                       fontWeight: FontWeight.w100),

@@ -14,7 +14,7 @@ class WebViewExampleState extends State<Prediction> {
     return Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: const Text('Prediction : Admin Side'),
+          title: const Text('High Alert Zone : Admin Side'),
         ),
         body: const WebView(
           javascriptMode: JavascriptMode.unrestricted,

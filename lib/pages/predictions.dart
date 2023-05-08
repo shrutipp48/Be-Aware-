@@ -12,7 +12,7 @@ class _PredictionsUser extends State<PredictionsUser> {
     return Scaffold(
         appBar: AppBar(
           centerTitle: true,
-          title: const Text('Crime Prediction'),
+          title: const Text('High Alert Areas'),
         ),
         body: const WebView(
           javascriptMode: JavascriptMode.unrestricted,

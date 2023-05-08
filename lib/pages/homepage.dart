@@ -213,7 +213,7 @@ class _HomePageState extends State<HomePage> {
                           // mainAxisAlignment: MainAxisAlignment.center,
                           children: <Widget>[
                             //Fetching Report options
-                            retButton("Predictions", Colors.white,
+                            retButton("Alert Zone", Colors.white,
                                 Color.fromARGB(255, 1, 76, 180), "pred"),
                           ],
                         ),
